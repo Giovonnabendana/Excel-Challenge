@@ -1,2 +1,2 @@
 # Excel-Challenge
-Analysis of Kickstarter
+The dataset was limiting because not all categories had the same amount of campaigns. Another limitation was not all campaigns used the same currency making it difficult to compare the funded amounts. There should be another column to convert all pledges into a single currency. This would provide enough data to compile and accurately find what category received the most money. From the Crowdfunding data, the most funded category was Theatre. The least funded category was journalism. Looking at all the categories at least 50% of the campaigns were succesful.
